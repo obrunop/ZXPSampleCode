@@ -798,7 +798,7 @@ namespace ZXPSampleCode
                 if (_isZXP7)
                 {
                     g.PrinterModel = ZMotifGraphics.PrinterModelTypeEnum.ZXPSeries7;
-                    _nameFrontImage = "ZXP7Front.bmp";
+                    _nameFrontImage = "batmanlogo.bmp";
                 }
                 else if (_isZXP9_600)
                 {
